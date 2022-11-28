@@ -30,7 +30,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Just download as zip and run MadGrabber-V1
+Just download as zip and run MadGrabber V1.exe
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
