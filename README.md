@@ -14,7 +14,6 @@
       </ul>
     </li>
     <li><a href="#contact">Contact me!</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -23,9 +22,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-`madhead341`, `MadGrabber V1`, `MadGrabber V1`, `Advanced token logger`
+`Discord`, `MadGrabber V1`, `logger`, `Advanced token logger`,'Discord token', discord logger', 'minecraft, 'minecraft session', 'session stealer'
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -41,6 +39,6 @@ Just download as zip and run MadGrabber-V1
 
 LO$R#3967
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+[https://github.com/madhead341/madGrabber-V1]([https://github.com/github_username/repo_name](https://github.com/madhead341/madGrabber-V1))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
