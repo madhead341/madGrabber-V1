@@ -23,7 +23,7 @@
 ## About The Project
 
 
-`Discord`, `MadGrabber V1`, `logger`, `Advanced token logger`,'Discord token', discord logger', 'minecraft, 'minecraft session', 'session stealer'
+`Discord`, `MadGrabber V1`, `logger`, `Advanced token logger`,`Discord token`,`discord logger`,`minecraft`,`minecraft session`,`session stealer`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
